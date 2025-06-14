@@ -4,13 +4,13 @@
 @custom-variant dark (&:is(.dark *));
 
 @theme {
-  --color-primary:#7C3AED;
-  --color-accent:#EDE9FE;
-  --color-soft:#FDF4FF;
-  --color-base:#F9FAFB;
-  --color-dark-text:#111827;
-  --color-gray-text:#6B7280 ;
-  --color-border:#D1D5DB;
+  --color-primary: #7C3AED;
+  --color-accent: #EDE9FE;
+  --color-soft: #FDF4FF;
+  --color-base: #F9FAFB;
+  --color-dark-text: #111827;
+  --color-gray-text: #6B7280 ;
+  --color-border: #D1D5DB;
 }
 @theme inline {
   --color-background: var(--background);
